@@ -12,9 +12,7 @@ Abaixo um diagrama do fluxo de dados e entidades criadas na aplicação:
 
 ![](https://github.com/educooper/ApiCatalogoJogos/raw/master/ApiCatalogoJogos/projeto-mvc-api-jogos.JPG)
 
-Minha meta - adicionar a API de informações de Jogos - Reviews e images através do [IGDB for .NET](https://github.com/kamranayub/igdb-dotnet) mas ainda não consegui =(
-
-Obrigado a minha filha por me deixar estudar mais este curso fantástico
+Minha meta - adicionar a API de informações de Jogos - Reviews e images através do [IGDB for .NET](https://github.com/kamranayub/igdb-dotnet) ou []thegamesdb(https://thegamesdb.net/) mas ainda não consegui =(
 
 Muito Obrigado Professor [Thiago Campos de Oliveira](https://www.linkedin.com/in/thiago-campos-de-oliveira-693a3840/) 
 
